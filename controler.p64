@@ -62,8 +62,6 @@ function _init()
 	--player je objekat kojim upravljamo kroz njegove metode update() i draw()
 	--samo trebamo njegove metode pozvati u _update() i _draw() funkcijama
 
-	local epilepsy_ammount = 10 --smaller value = more epilepsy (min = 1)
-
 	player={}
 		player.x = 30
 		player.y = 30
@@ -98,9 +96,6 @@ function _init()
 		end
 		player.draw = function(self)
 			spr(1,self.x,self.y)
-			--circfill(self.x, self.y, self.r, self.r/epilepsy_ammount)
-			--stavio sam boja kruga da bude povezana sa njegovim poluprecnikom
-			--dijelim sa "epilepsy_ammount" da bude manja brzina mijenjanja boje
 		end
 		
 	--particles
