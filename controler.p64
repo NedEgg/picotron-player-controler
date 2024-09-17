@@ -1,0 +1,163 @@
+picotron cartridge // www.picotron.net
+version 2
+
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjU3OjI2Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+ODAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2lu
+ZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9u
+PSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRleD00fX1dXWx6NAAEAAAAAwAAADBuaWw=
+:: gfx/
+:: gfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyJdXWx6NAAEAAAAAwAAADBuaWw=
+:: gfx/0.gfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU2Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyIscmV2aXNpb249MTM2XV1sejQA6wAAAHcxAADzFHtbMF09e2JtcD1weHUA
+QyAQEATw8CxmbGFncz0wLHBhbl94CADKeT0wLHpvb209OH0sMQDwHkBfFXAeXxQeQA4tDxkETQ4g
+Dg0MHSQdFA0OEA4dCg0EDC0MBA0OAA4MLQQdBAwA-zQeDH0JHQQNHg0MCU0MTR4dDAkNBD0KDQQN
+Hh0MLQkNDB0MHS4tCk0JHR4ADk0MHQwNCQwOEB4tDF0eIC5dLkCecF5AowAcL-DwMQD---------
+------------------------------------------------------_mUG09OH19
+:: map/
+:: map/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyJdXWx6NAAEAAAAAwAAADBuaWw=
+:: map/0.map
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU1Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyIscmV2aXNpb249MTMxXV1sejQAaAAAAFgQAADwCHt7Ym1wPXVzZXJkYXRh
+KCJpMTYiLDMyAwAvIjABAP--------------------vxCCIpLGhpZGRlbj1mYWxzZSxwYW5feD0w
+CADSeT0wLHRpbGVfaD0xNgoAEHcKAIB6b29tPTF9fQ==
+:: sfx/
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyJdXWx6NAAEAAAAAwAAADBuaWw=
+:: sfx/0.sfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU2Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjoyNzozNyIscmV2aXNpb249MTMxXV1sejQAqQAAAJIXAAD-LHB4dQADKAAABAAED0AQ
+Ag4AAaABIAKgDgAPEAAN8MoBAgMEBQYHAA--kAgJCgsPDA8NDw4PDwAP--D-AQDr-yfSARAGDyAQ
+ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP------vR--
+AQCsv8gPQAANQP--sPBwCgD-------------------_EUP_w8P85
+:: label.png
+b64$iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAAADZ0lEQVR4Ae3dIQEAAAgEsYf_
+kRG0wLBFOHO2kkwAgFMtAQAYMAAYMABgwABgwACAAQOAAQMABgwABgwAGDAAGDAAGDAAYMAAYMAA
+gAEDgAEDAAYMAAYMABgwABgwABgwAGDAAGDAAIABA4ABAwAGDAAGDAAYMAAYMAAYMABgwABgwACA
+AQOAAQMABgwABgwAGDAAGDAAGDAAYMAAYMAAgAEDgAEDAAYMAAYMABgwABgwABgwAGDAAGDAAIAB
+A4ABAwAGDAAGDAAYMAAYMAAYMABgwABgwACAAQOAAQMABgwABgwAGDAAGDAAGDAAYMAAYMAAgAED
+gAEDAAYMAAYMABgwABgwABgwAGDAAGDAAIABA4ABAwAGDAAGDAAYMAAYMAAYMABgwABgwACAAQOA
+AQMABgwABgwAGDAAGDAAYMAAYMAAYMAAgAEDgAEDAAYMAAYMABgwABgwAGDAAGDAAGDAAIABA4AB
+AwAGDAAGDAAYMAAYMABgwABgwABgwACAAQOAAQMABgwABgwAGDAAGDAAYMAAYMAAYMAAgAEDgAED
+AAYMAAYMABgwABgwAGDAAGDAAGDAAIABA4ABAwAGDAAGDAAYMAAYMABgwABgwABgwACAAQOAAQMA
+BgwABgwAGDAAGDAAYMAAYMAAYMAAgAEDgAEDAAYMAAYMABgwABgwAGDAAGDAAGDAAIABA4ABAwAG
+DAAGDAAYMAAYMABgwABgwABgwACAAQOAAQMABgwABgwAGDAAGDAAYMAAYMAAgAEDgAEDgAEDAAYM
+AAYMABgwABgwAGDAAGDAAIABA4ABA4ABAwAGDAAGDAAYMAAYMABgwABgwACAAQOAAQOAAQMABgwA
+BgwAGDAAGDAAYMAAYMAAgAEDgAEDgAEDAAYMAAYMABgwABgwAGDAAGDAAIABA4ABA4ABAwAGDAAG
+DAAYMAAYMABgwABgwACAAQOAAQOAAQMABgwABgwAGDAAGDAAYMAAYMAAgAEDgAEDgAEDAAYMAAYM
+ABgwABgwAGDAAGDAAIABA4ABA4ABAwAGDAAGDAAYMAAYMABgwABgwACAAQOAAQOAAQMABgwABgwA
+GDAAGDAAYMAAYMAAgAEDgAEDgAFLAAAGDAAGDAAYMAAYMABgwABgwACAAQOAAQMABgwABgwAXywZ
+PgMYXZM3hgAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=
+:: main.lua
+--[[pod_format="raw",created="2024-09-16 14:49:55",modified="2024-09-17 12:27:37",revision=263]]
+function _init()
+	--objektno orijentisano rjesenje
+	--player je objekat kojim upravljamo kroz njegove metode update() i draw()
+	--samo trebamo njegove metode pozvati u _update() i _draw() funkcijama
+
+	local epilepsy_ammount = 10 --smaller value = more epilepsy (min = 1)
+
+	player={}
+		player.x = 30
+		player.y = 30
+		player.speed = 3
+		player.friction = 1.05
+		player.dx = 0
+		player.dy = 0
+		player.r = 3
+		player.update = function(self)
+			--movement
+			self.x += self.dx
+			self.y += self.dy
+			
+			if btn(0) then self.dx = -self.speed end
+			if btn(1) then self.dx =  self.speed end
+			if btn(2) then self.dy = -self.speed end
+			if btn(3) then self.dy =  self.speed end
+			
+			if (abs(self.dx) > 0 and (not btn(0) and not btn(1))) then
+				self.dx /= self.friction
+				if abs(self.dx) < 0.1 then self.dx = 0 end
+			end
+			if (abs(self.dy) > 0 and (not btn(2) and not btn(3))) then
+				self.dy /= self.friction
+				if abs(self.dy) < 0.1 then self.dy = 0 end
+			end
+						
+			--radius
+		--	if btn(4) then self.r += 1 end
+			--if btn(5) then self.r -= 1 end
+			--if self.r < 0 then self.r = 0 end --da ne bi mogao u negativne brojeve
+		end
+		player.draw = function(self)
+			spr(1,self.x,self.y)
+			--circfill(self.x, self.y, self.r, self.r/epilepsy_ammount)
+			--stavio sam boja kruga da bude povezana sa njegovim poluprecnikom
+			--dijelim sa "epilepsy_ammount" da bude manja brzina mijenjanja boje
+		end
+		
+	--particles
+	particles={}
+	trail={}
+end
+
+function _update()
+	player:update() --isto kao da si napisao "player.update(player)"
+	--flame particles
+	for I=1,5 do
+		add(particles,{
+			x=player.x+rnd(15),
+			y=player.y+rnd(10),
+			r=rnd(4),
+			c=10,
+			life=20
+		})
+	end
+	for p in all(particles) do
+		p.y-=1+rnd(2)
+		p.life-=1
+		if p.life<0 then del(particles,p) end
+		if p.life<(10) then 
+			p.r=rnd(2) 
+			p.c=9
+		end
+	end
+	
+	--scorched trail
+	for I=1,5 do
+		add(trail,{
+			x=player.x+8,
+			y=player.y+12,
+			r=4+rnd(2),
+			life=300
+		})
+	end
+	for t in all(trail) do
+		t.life-=rnd(3)
+		if t.life<(t.life/2) then t.r-=1 end
+		if t.life<0 then del(trail,t) end
+	end
+end
+
+function _draw()
+	cls(3)
+	for t in all(trail) do
+		circfill(t.x, t.y, t.r, 21)
+	end
+	
+	player:draw() --draw player under flame but over trail
+	
+	for p in all(particles) do
+		circfill(p.x, p.y, p.r, p.c)
+	end		
+
+	--print(max(abs(player.dx),abs(player.dy)), player.x+10, player.y+10, 7)
+end
+:: [eoc]
