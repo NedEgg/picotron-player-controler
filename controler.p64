@@ -1,42 +1,36 @@
 picotron cartridge // www.picotron.net
 version 2
 
-:: .info.pod
-b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjU3OjI2Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
-ODAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2lu
-ZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9u
-PSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRleD00fX1dXWx6NAAEAAAAAwAAADBuaWw=
 :: gfx/
-:: gfx/.info.pod
-b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyJdXWx6NAAEAAAAAwAAADBuaWw=
+:: map/
+:: sfx/
 :: gfx/0.gfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU2Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyIscmV2aXNpb249MTM2XV1sejQA6wAAAHcxAADzFHtbMF09e2JtcD1weHUA
+OS0xNyAxMjo0NTo0MSIscmV2aXNpb249MTQzXV1sejQA6wAAAHcxAADzFHtbMF09e2JtcD1weHUA
 QyAQEATw8CxmbGFncz0wLHBhbl94CADKeT0wLHpvb209OH0sMQDwHkBfFXAeXxQeQA4tDxkETQ4g
 Dg0MHSQdFA0OEA4dCg0EDC0MBA0OAA4MLQQdBAwA-zQeDH0JHQQNHg0MCU0MTR4dDAkNBD0KDQQN
 Hh0MLQkNDB0MHS4tCk0JHR4ADk0MHQwNCQwOEB4tDF0eIC5dLkCecF5AowAcL-DwMQD---------
 ------------------------------------------------------_mUG09OH19
-:: map/
-:: map/.info.pod
+:: gfx/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyJdXWx6NAAEAAAAAwAAADBuaWw=
+OS0xNyAxMjo0NTo0MSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: map/0.map
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU1Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyIscmV2aXNpb249MTMxXV1sejQAaAAAAFgQAADwCHt7Ym1wPXVzZXJkYXRh
+OS0xNyAxMjo0NTo0MSIscmV2aXNpb249MTM4XV1sejQAaAAAAFgQAADwCHt7Ym1wPXVzZXJkYXRh
 KCJpMTYiLDMyAwAvIjABAP--------------------vxCCIpLGhpZGRlbj1mYWxzZSxwYW5feD0w
 CADSeT0wLHRpbGVfaD0xNgoAEHcKAIB6b29tPTF9fQ==
-:: sfx/
-:: sfx/.info.pod
+:: map/.info.pod
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyJdXWx6NAAEAAAAAwAAADBuaWw=
+OS0xNyAxMjo0NTo0MSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: sfx/0.sfx
 b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU2Iixtb2RpZmllZD0iMjAyNC0w
-OS0xNyAxMjoyNzozNyIscmV2aXNpb249MTMxXV1sejQAqQAAAJIXAAD-LHB4dQADKAAABAAED0AQ
+OS0xNyAxMjo0NTo0MSIscmV2aXNpb249MTM4XV1sejQAqQAAAJIXAAD-LHB4dQADKAAABAAED0AQ
 Ag4AAaABIAKgDgAPEAAN8MoBAgMEBQYHAA--kAgJCgsPDA8NDw4PDwAP--D-AQDr-yfSARAGDyAQ
 ASABIAHwAAIQAgwQASAPISABMA9A8MMPKA--8MYP_AoP-w_AD-cPDQHwCQEQBgwwAP------vR--
 AQCsv8gPQAANQP--sPBwCgD-------------------_EUP_w8P85
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjQ5OjU0Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjo0NTo0MSJdXWx6NAAEAAAAAwAAADBuaWw=
 :: label.png
 b64$iVBORw0KGgoAAAANSUhEUgAAAeAAAAEOCAYAAABRmsRnAAADZ0lEQVR4Ae3dIQEAAAgEsYf_
 kRG0wLBFOHO2kkwAgFMtAQAYMAAYMABgwABgwACAAQOAAQMABgwABgwAGDAAGDAAGDAAYMAAYMAA
@@ -56,13 +50,13 @@ ABgwABgwAGDAAGDAAIABA4ABA4ABAwAGDAAGDAAYMAAYMABgwABgwACAAQOAAQOAAQMABgwABgwA
 GDAAGDAAYMAAYMAAgAEDgAEDgAFLAAAGDAAGDAAYMAAYMABgwABgwACAAQOAAQMABgwABgwAXywZ
 PgMYXZM3hgAAABB0RVh0TG9kZVBORwAyMDExMDIyMeNZtsEAAAAASUVORK5CYII=
 :: main.lua
---[[pod_format="raw",created="2024-09-16 14:49:55",modified="2024-09-17 12:27:37",revision=263]]
+--[[pod_format="raw",created="2024-09-16 14:49:55",modified="2024-09-17 12:45:41",revision=276]]
 function _init()
-	--objektno orijentisano rjesenje
-	--player je objekat kojim upravljamo kroz njegove metode update() i draw()
-	--samo trebamo njegove metode pozvati u _update() i _draw() funkcijama
-
 	player={}
+		--particles
+		player.particles={}
+		player.trail={}
+		--variables
 		player.x = 30
 		player.y = 30
 		player.speed = 3
@@ -70,6 +64,7 @@ function _init()
 		player.dx = 0
 		player.dy = 0
 		player.r = 3
+		--methods
 		player.update = function(self)
 			--movement
 			self.x += self.dx
@@ -88,71 +83,66 @@ function _init()
 				self.dy /= self.friction
 				if abs(self.dy) < 0.1 then self.dy = 0 end
 			end
-						
-			--radius
-		--	if btn(4) then self.r += 1 end
-			--if btn(5) then self.r -= 1 end
-			--if self.r < 0 then self.r = 0 end --da ne bi mogao u negativne brojeve
-		end
+			--flame particles
+			for I=1,5 do
+				add(self.particles,{
+					x=self.x+rnd(15),
+					y=self.y+rnd(10),
+					r=rnd(4),
+					c=10,
+					life=20
+				})
+			end
+			for p in all(self.particles) do
+				p.y-=1+rnd(2)
+				p.life-=1
+				if p.life<0 then del(self.particles,p) end
+				if p.life<(10) then 
+					p.r=rnd(2) 
+					p.c=9
+				end
+			end
+			
+			--scorched trail
+				for I=1,5 do
+					add(self.trail,{
+						x=self.x+8,
+						y=self.y+12,
+						r=4+rnd(2),
+						life=300
+					})
+				end
+				for t in all(self.trail) do
+					t.life-=rnd(3)
+					if t.life<(t.life/2) then t.r-=1 end
+					if t.life<0 then del(self.trail,t) end
+				end
+			end
+			
 		player.draw = function(self)
+			for t in all(self.trail) do
+				circfill(t.x, t.y, t.r, 21)
+			end
 			spr(1,self.x,self.y)
-		end
-		
-	--particles
-	particles={}
-	trail={}
+			for p in all(self.particles) do
+				circfill(p.x, p.y, p.r, p.c)
+			end		
+		end	
 end
 
 function _update()
-	player:update() --isto kao da si napisao "player.update(player)"
-	--flame particles
-	for I=1,5 do
-		add(particles,{
-			x=player.x+rnd(15),
-			y=player.y+rnd(10),
-			r=rnd(4),
-			c=10,
-			life=20
-		})
-	end
-	for p in all(particles) do
-		p.y-=1+rnd(2)
-		p.life-=1
-		if p.life<0 then del(particles,p) end
-		if p.life<(10) then 
-			p.r=rnd(2) 
-			p.c=9
-		end
-	end
-	
-	--scorched trail
-	for I=1,5 do
-		add(trail,{
-			x=player.x+8,
-			y=player.y+12,
-			r=4+rnd(2),
-			life=300
-		})
-	end
-	for t in all(trail) do
-		t.life-=rnd(3)
-		if t.life<(t.life/2) then t.r-=1 end
-		if t.life<0 then del(trail,t) end
-	end
+	player:update()
 end
 
 function _draw()
-	cls(3)
-	for t in all(trail) do
-		circfill(t.x, t.y, t.r, 21)
-	end
-	
-	player:draw() --draw player under flame but over trail
-	
-	for p in all(particles) do
-		circfill(p.x, p.y, p.r, p.c)
-	end		
-
+	cls(3)	
+	player:draw()
 	--print(max(abs(player.dx),abs(player.dy)), player.x+10, player.y+10, 7)
 end
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTA5LTE2IDE0OjU3OjI2Iixtb2RpZmllZD0iMjAyNC0w
+OS0xNyAxMjo0NTo0MSIscnVudGltZT03LHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEj
+NzAiLHdvcmtzcGFjZV9pbmRleD0xfSx7bG9jYXRpb249ImdmeC8wLmdmeCIsd29ya3NwYWNlX2lu
+ZGV4PTJ9LHtsb2NhdGlvbj0ibWFwLzAubWFwIix3b3Jrc3BhY2VfaW5kZXg9M30se2xvY2F0aW9u
+PSJzZngvMC5zZngiLHdvcmtzcGFjZV9pbmRleD00fX1dXWx6NAAEAAAAAwAAADBuaWw=
 :: [eoc]
